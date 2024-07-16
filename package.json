@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Haskkor/react-native-recaptchav3.git"
+    "url": "git+https://github.com/vinhtruong93/react-native-recaptchav3.git"
   },
-  "author": "Jeremy Farnault <farnaultjeremy@gmail.com>",
+  "author": "Vinh Truong <vinh.troung@vietcap.com.vn>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Haskkor/react-native-recaptchav3/issues"
+    "url": "https://github.com/vinhtruong93/react-native-recaptchav3/issues"
   },
-  "homepage": "https://github.com/Haskkor/react-native-recaptchav3#readme",
+  "homepage": "https://github.com/vinhtruong93/react-native-recaptchav3#readme",
   "devDependencies": {
     "@types/react": "^16.7.3",
     "@types/react-native": "^0.57.7",
